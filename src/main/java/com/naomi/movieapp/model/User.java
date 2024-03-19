@@ -26,4 +26,5 @@ public class User extends BaseClass implements Serializable {
     @Enumerated(EnumType.STRING)
     private Role role;
 
+
 }
